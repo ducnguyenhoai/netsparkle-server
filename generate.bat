@@ -1,0 +1,2 @@
+netsparkle-generate-appcast -b ./installer -p ./changelogs -u http://192.168.1.242:5500/installer -l http://192.168.1.242:5500/changelogs --ext "exe" --file-extract-version "MetanodeInstaller_v(?<version>[\d.]+)" -o "windows" --output-file-name "appcast"
+netsparkle-generate-appcast -b ./installer -p ./changelogs -u http://192.168.1.242:5500/installer -l http://192.168.1.242:5500/changelogs --ext "pkg" --file-extract-version "MetanodeInstaller_v(?<version>[\d.]+)" -o "mac" --output-file-name "appcast_macos"
