@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Application</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Application 1.0.1</title>
+      <sparkle:releaseNotesLink sparkle:signature="xThB0O9vubQkymZCvlyfWZkc0N0srOuQYFC3OkTrSCZIhmwkUSTAnUQ6fOI130A8Rj2N7tgU1GTV4bn2CdvcAg==">https://raw.githubusercontent.com/ducnguyenhoai/netsparkle-server/master/appcast.xml.signature/changelogs\1.0.1.md</sparkle:releaseNotesLink>
+      <pubDate>Tue, 25 Mar 2025 09:54:47 +07:00</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <enclosure url="https://raw.githubusercontent.com/ducnguyenhoai/netsparkle-server/master/appcast.xml.signature/installer/MetanodeInstaller_v1.0.1.exe" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="31982519" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="G84BZfkjM+tRca8pPiNs2ZmjYEZwDG/RqKeo8L1tOShZ3kjLL/0C1h1zFJNOwHkf3s0U9nQTvnVU5cs7Dd0gAQ==" />
+    </item>
+  </channel>
+</rss>
