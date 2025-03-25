@@ -6,11 +6,11 @@
     <language>en</language>
     <item>
       <title>Application 1.0.1</title>
-      <sparkle:releaseNotesLink sparkle:signature="xThB0O9vubQkymZCvlyfWZkc0N0srOuQYFC3OkTrSCZIhmwkUSTAnUQ6fOI130A8Rj2N7tgU1GTV4bn2CdvcAg==">https://raw.githubusercontent.com/ducnguyenhoai/netsparkle-server/master/appcast.xml.signature/changelogs\1.0.1.md</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink sparkle:signature="xThB0O9vubQkymZCvlyfWZkc0N0srOuQYFC3OkTrSCZIhmwkUSTAnUQ6fOI130A8Rj2N7tgU1GTV4bn2CdvcAg==">https://raw.githubusercontent.com/ducnguyenhoai/netsparkle-server/main/appcast.xml.signature/changelogs\1.0.1.md</sparkle:releaseNotesLink>
       <pubDate>Tue, 25 Mar 2025 11:18:17 +07:00</pubDate>
       <sparkle:version>1.0.1</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <enclosure url="https://raw.githubusercontent.com/ducnguyenhoai/netsparkle-server/master/appcast.xml.signature/installer/MetanodeInstaller_v1.0.1.pkg" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="42738394" sparkle:os="mac" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="mdDGu3VN75gRwdXS/MVT2fxYrky4GhQIN85I8Hw4Yy0PT1UQtScfHShid1mUJ6yObrY48fckbnU6L0kz/X9/CA==" />
+      <enclosure url="https://raw.githubusercontent.com/ducnguyenhoai/netsparkle-server/main/appcast.xml.signature/installer/MetanodeInstaller_v1.0.1.pkg" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="42738394" sparkle:os="mac" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="mdDGu3VN75gRwdXS/MVT2fxYrky4GhQIN85I8Hw4Yy0PT1UQtScfHShid1mUJ6yObrY48fckbnU6L0kz/X9/CA==" />
     </item>
   </channel>
 </rss>
